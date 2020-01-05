@@ -26,7 +26,7 @@ Additional Features
 ----------------------
 1) Explosive Particles: When the 'E' key is pressed a very large explosive particle is added to the fountain. Once this particle collides with the floor, it immediately explodes into 40 tiny particles. Explosive particles can be added whenever, even when the regular fountain flow is paused.
 
-2) Two objects added in the scene: When the 'O' key is pressed two rectangular prisms are added to the scene. Surface normals for each vertex were calculated so the lighting affects it correctly
+2) Two objects added in the scene: When the 'O' key is pressed two rectangular prisms are added to the scene. Surface normals for each vertex were calculated so the lighting affects it correctly. *Particle collision with objects not yet implemented*.
 
 References
 ------------
